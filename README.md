@@ -2,11 +2,7 @@
 
 1. Find out your principal id:
 
-````
-
-browser id :2vxsx-fae
 dfx identity get-principal
-```ga5hf-ofken-ih26g-eqzq2-yq3qc-f4fhq-7btsr-3y4v6-euifs-vp5e2-zqe
 
 2. Save it somewhere.
 
@@ -125,3 +121,4 @@ dfx canister --network ic id token_assets
 7. Copy the id from step 6 and add .raw.ic0.app to the end to form a URL.
    e.g. zdv65-7qaaa-aaaai-qibdq-cai.raw.ic0.app
 ```
+````
